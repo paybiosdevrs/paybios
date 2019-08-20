@@ -6,7 +6,7 @@ Dash Core staging tree 0.14.0
 https://www.dash.org
 
 
-What is Dash?
+What is Paybios?
 ----------------
 
 Dash is an experimental digital currency that enables anonymous, instant
