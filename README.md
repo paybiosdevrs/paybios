@@ -17,8 +17,7 @@ are carried out collectively by the network. Paybios Core is the name of the ope
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Paybios Core software, see https://www.Paybios.org/get-Paybios/.
-
+the Paybios Core software, see http://www.paybios.com
 
 License
 -------
