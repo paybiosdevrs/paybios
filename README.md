@@ -1,7 +1,8 @@
-Paybios - Dash Core staging tree 0.14.0
+Paybios Core staging tree 0.14.0
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=master)](https://travis-ci.org/dashpay/dash) `develop:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=develop)](https://travis-ci.org/dashpay/dash/branches)
+`master:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=master)](https://travis-ci.org/dashpay/dash) 
+`develop:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=develop)](https://travis-ci.org/dashpay/dash/branches)
 
 http://paybios.com
 
@@ -9,28 +10,28 @@ http://paybios.com
 What is Paybios?
 ----------------
 
-Dash is an experimental digital currency that enables anonymous, instant
-payments to anyone, anywhere in the world. Dash uses peer-to-peer technology
+Paybios is an experimental digital currency that enables anonymous, instant
+payments to anyone, anywhere in the world. Paybios uses peer-to-peer technology
 to operate with no central authority: managing transactions and issuing money
-are carried out collectively by the network. Dash Core is the name of the open
+are carried out collectively by the network. Paybios Core is the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Dash Core software, see https://www.dash.org/get-dash/.
+the Paybios Core software, see https://www.Paybios.org/get-Paybios/.
 
 
 License
 -------
 
-Dash Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Paybios Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/dashpay/dash/tags) are created to indicate new official,
-stable release versions of Dash Core.
+[Tags](https://github.com/Paybiospay/Paybios/tags) are created to indicate new official,
+stable release versions of Paybios Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
